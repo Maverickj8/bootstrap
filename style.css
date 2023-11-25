@@ -1,0 +1,139 @@
+
+@media (min-width: 992px) {
+    .ul-css {
+        margin-left: 23%;
+    
+}
+.container-fluid {
+    padding: 0% !important;
+}
+.home {
+    text-align: center;
+    
+}
+
+}
+
+.nav-item .nav-link {
+    color: #fff;
+  }
+  .active{
+    color: #fff !important;
+    border-bottom: 2px solid rgb(255, 99, 42) !important;
+}
+.foods {
+    color:  rgb(251, 94, 37) !important;
+}
+.introduction {
+    background-image:linear-gradient(45deg, 
+    rgba(0, 0, 0, 0.785), 
+    rgba(0, 0, 0, 0.646)), url("./images/home.jpeg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.navbar-nav {
+    font-size: 0.8rem;
+    
+}
+.home {
+    padding-top: 20% !important;
+    
+}
+.welcome {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.welcome2 {
+    font-size: 3.8rem;
+}
+.welcome3 {
+    padding: 0 30%;
+    text-align: center;
+    font-weight: 100;
+    padding-top: 1.5rem;
+}
+.btn {
+    background-color: rgb(255, 99, 42);
+    color: azure;
+    
+}
+.learn {
+    background-color: rgb(255, 99, 42);
+    color: azure;
+    border-radius: 0;
+    margin-top: 2rem;
+    
+}
+.btn:hover {
+    background-color: azure;
+    color:  orangered;
+
+}
+.bi {
+    color: #fff;
+}
+img {
+    max-width: 100%;
+}
+.gallery {
+    background-color: rgb(35, 6, 6);
+    padding: 80px 0;
+    
+}
+.mb-0 {
+    padding-left: 4rem;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 100;
+
+}
+.mt-0 {
+    letter-spacing: 1rem;
+}
+.cent {
+    height: 33.5rem;
+}
+.welcome4 {
+    padding: 0 4rem !important;
+}
+.food {
+    font-family: 'Dancing Script', cursive;
+}
+h3 {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.menu {
+    background-color: rgb(23, 3, 3);
+    height: 30rem;
+    padding: 20px;
+
+}
+.dollar {
+    padding-left: 4rem;
+}
+.para {
+    font-weight: 200;
+    font-size: .7rem;
+}
+.list {
+    padding-top: 1.5rem;
+}
+.our {
+    padding-top: 0 !important;
+}
+.foot {
+    padding: 10% 2% 5% 2%;
+}
+
+/* main {
+    height: fit-content !important;
+} */
+
+
